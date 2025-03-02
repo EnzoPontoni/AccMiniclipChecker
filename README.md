@@ -128,5 +128,3 @@ Link do Projeto: https://github.com/EnzoPontoni/AccMiniclipChecker
 ---
 
 ⭐️ Criado por Enzo Pontoni ⭐️
-
-Download: https://drive.google.com/file/d/1J4QULC7hv3qxeh4QWIz3i_2OP01yTIpv/view?usp=sharing
