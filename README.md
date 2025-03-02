@@ -2,7 +2,7 @@
 
 Uma aplicação GUI sofisticada para validar contas do Miniclip, com funcionalidades de teste automatizado de login e resolução de captchas.
 
-![Screenshot do EP Miniclip Checker]()
+![Screenshot do EP Miniclip Checker](https://i.imgur.com/wRXRVDa.png)
 
 ## 🌟 Funcionalidades
 
@@ -25,7 +25,7 @@ Uma aplicação GUI sofisticada para validar contas do Miniclip, com funcionalid
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seuusuario/ep-miniclip-checker.git
+   git clone https://github.com/EnzoPontoni/AccMiniclipChecker.git
    cd ep-miniclip-checker
    ```
 
@@ -123,7 +123,7 @@ Contribuições, problemas e solicitações de recursos são bem-vindos! Sinta-s
 
 Discord - brrxis
 
-Link do Projeto: [https://github.com/seuusuario/ep-miniclip-checker](https://github.com/seuusuario/ep-miniclip-checker)
+Link do Projeto: https://github.com/EnzoPontoni/AccMiniclipChecker
 
 ---
 
